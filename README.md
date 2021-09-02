@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dull_roar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dull_roar" height="30" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/~0107ffa4036575cf74" target="blank"><img align="center" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Upwork_Logo.svg/250px-Upwork_Logo.svg.png" alt="https://www.upwork.com/freelancers/~0107ffa4036575cf74" height="30" width="40" /></a>
 <a href="https://instagram.com/moses_bankz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moses_bankz" height="30" width="40" /></a>
 <a href="https://www.codeproject.com/members/user-15226622" target="blank"><img align="center" src="https://codeproject.freetls.fastly.net/App_Themes/CodeProject/Img/logo250x135.gif" alt="https://www.codeproject.com/members/user-15226622" height="70" width="50" /></a>
 </p>

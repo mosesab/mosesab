@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moses B</h1>
-<h3 align="center">A programmer with an interest in tinkering 	:monocle_face: with new technologies.</h3>
+<h3 align="center">A programmer with an interest in tinkering 	:monocle_face: with new technologies :man_technologist: .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosesab&label=Profile%20views&color=0e75b6&style=flat" alt="mosesab" /> </p>
 

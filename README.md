@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosesab&label=Profile%20views&color=0e75b6&style=flat" alt="mosesab" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dull_roar" target="blank"><img src="https://img.shields.io/twitter/follow/dull_roar?logo=twitter&style=for-the-badge" alt="dull_roar" /></a> </p>
+<p align="left"> <a href="https://instagram.com/moses__bankz" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moses__bankz" /></a> </p>
 
 <h3 align="left">Connect with me @ :</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/moses-b-148214260" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="mosesab" height="80" width="90" /></a>
-
-<a href="https://instagram.com/moses__bankz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moses__bankz" height="70" width="80" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>

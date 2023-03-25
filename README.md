@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me @ :</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/moses-b-148214260" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="mosesab" height="50" width="90" /></a>
+<a href="https://www.linkedin.com/in/moses-b-148214260" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="mosesab" height="80" width="90" /></a>
 
 <a href="https://instagram.com/moses__bankz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moses__bankz" height="70" width="80" /></a>
 
